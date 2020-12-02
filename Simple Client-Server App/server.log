@@ -1,0 +1,4 @@
+[2020-12-02T20:18:58+07:00] Success : POST http://127.0.0.1/ {"counter": 1, "X-RANDOM": "3FOUG80L"} 
+ [2020-12-02T20:19:01+07:00] Success : POST http://127.0.0.1/ {"counter": 2, "X-RANDOM": "Tnul71rD"} 
+ [2020-12-02T20:19:04+07:00] Success : POST http://127.0.0.1/ {"counter": 3, "X-RANDOM": "WmQbzJ4Y"} 
+ 
