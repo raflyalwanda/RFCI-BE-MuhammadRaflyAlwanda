@@ -9,6 +9,6 @@ Hasil analisis error dan perbaikan terhadap repo berikut https://gitlab.refactor
 1. Ubah nama file env menjadi .env
 2. isi file juga belum dilengkapi
 3. pada file config/index.js tambahkan :
-    dotenv.config();
+    dotenv.config(); <br>
     {config} ubah menjadi config (pada akhir baris kode).
     
